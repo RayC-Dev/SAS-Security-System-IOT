@@ -1,0 +1,6 @@
+ipServeur=000.000.000.000
+port=1000
+idBDD=1002
+DureeTimer=10
+idSAS=27
+ipRaspberry=000.000.000.000
