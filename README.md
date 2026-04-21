@@ -25,5 +25,7 @@ Conception et réalisation d'un système de sécurité critique pour la gestion 
 ## Contenu du Dépôt
 
 • /src : Code source C# (Modularisé par service : Hardware, Network, Logic).
+
 • /docs : Diagrammes SysML, schémas de câblage et dossier technique.
+
 • Config.txt : Fichier de paramétrage dynamique du système.
