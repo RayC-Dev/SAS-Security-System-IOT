@@ -10,7 +10,6 @@ Conception et réalisation d'un système de sécurité critique pour la gestion 
 ## Expertise Technique
 
 • Langages : C# (.NET / UWP), XAML (Interface IHM), SQL.
-
 • Système embarqué : Windows IoT Core sur Raspberry Pi.
 
 • Modélisation : Analyse fonctionnelle via SysML (Block Definition Diagram).
